@@ -8,7 +8,6 @@ This repository contains various models for text categorization, including CNN, 
 - [Usage](#usage)
 - [Models](#models)
 - [Notebook](#notebook)
-- [License](#license)
 
 ## Introduction
 
@@ -80,7 +79,3 @@ The scripts in `text_classification_model_optimization.py` provide implementatio
 ## Notebook
 
 The `text_categorisation.ipynb` notebook provides an end-to-end workflow for text categorization, including data preprocessing, model training, and evaluation.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
